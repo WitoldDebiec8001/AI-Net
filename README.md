@@ -9,3 +9,5 @@ Zakupy.
 Części.
 Eleketronika. 
 To wszystko offline pod aplikację na telefon przez bloethooth i wifi. 
+Ten software jest po to jak są nie możliwe rzeczy do zrobienia dla ludzi. 
+Radio drukarka kwantowa Bloethooth i Wifi. 
