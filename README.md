@@ -11,3 +11,5 @@ Eleketronika.
 To wszystko offline pod aplikację na telefon przez bloethooth i wifi. 
 Ten software jest po to jak są nie możliwe rzeczy do zrobienia dla ludzi. 
 Radio drukarka kwantowa Bloethooth i Wifi. 
+Oprogramowanie jest dla osób co nie chcą małych post zakupów od rolników. 
+Urządzenie sprzedawane na stacji benzynowej. 
