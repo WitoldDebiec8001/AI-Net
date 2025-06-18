@@ -4,10 +4,10 @@ Softy do zakupów do 1000 cykli zakupów dużych.
 Można zrobić tankowanie paliwa do 10 tankowań pełny bak 1 dnia.
 Można naładować auto elektryczne zaplniczką.
 Można wydrukować zbroję Iron Men God mark 85 nano tech. 
-Papierosy.
-Zakupy.
+Papierosy i narkotyki.
+Zakupy np.: leki i jedzenie i inne.
 Części.
-Eleketronika. 
+Eleketronika i kable. 
 To wszystko offline pod aplikację na telefon przez bloethooth i wifi. 
 Ten software jest po to jak są nie możliwe rzeczy do zrobienia dla ludzi. 
 Radio drukarka kwantowa Bloethooth i Wifi. 
